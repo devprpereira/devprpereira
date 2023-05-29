@@ -49,11 +49,11 @@
  
 <p>
 EN
-I'm Paulo Roberto, a Web Developer from Santa Catarina, Brazil. Currently I work developing a web system with some technologies such as PHP, MySQL, Javascript, jQuery, HTML, CSS, Bootstrap, Git, BitBucket. I have a goal to become a full stack web developer senior, so I'm studying, training and developing personal tasks everyday to achieve my goal.
+Full-stack web developer with over 3 years of experience, with a strong focus on back-end development using PHP, Laravel and MySQL as database, also worked with front-end development using HTML, CSS, JavaScript, React.js, Typescript, jQuery, Bootstrap, and Flexbox technologies. Have strong experience working with Docker, Git, SCRUM and JIRA. Have strong experience making successful integrations through Rest APIs and developed real-time solutions for an ecommerce startup from Brazil. Fluent English speaker with experience working in globally distributed teams, an extensive technology background has equipped me with the ability to adapt to
+different environments and solve problems with technical and non-technical solutions.
 
-I'm naturaly Portuguese fluent speaker and I'm also studying English everyday. I can read in an advanced level, write and listen in mid-level and I'm studying everyday to improve my conversation, cause' Iwant to be fluent in English. I want to travel around the world and work for international projects and also meet new people, new culture, new costumes.
 
 PT
-Eu me chamo Paulo Roberto, sou Desenvolvedor Web situado em Santa Catarina, Brasil. Atualmente eu trabalho desenvolvendo um sistema web com algumas tecnologias como PHP, MySQL, Javascript, jQuery, HTML, CSS, Bootstrap, Git e BitBucket. Eu tenho como meta me tornar um Desenvolvedor Web Sênior Full Stack, e, para isso, eu estou estudando, treinando e desenvolvendo projetos pessoais todos os dias para atingir meu objetivo.
+Desenvolvedor web full-stack com mais de 3 anos de experiência. Fluente em inglês, experiência em equipes globais e também experiência como professor de PHP e JavaScript. Especializado em PHP, Laravel e MySQL para o backend e habilidades sólidas em HTML, CSS, JavaScript, React.js, Typescript, jQuery, Bootstrap e Flexbox para o frontend. Experiência com Docker, Git, SCRUM e JIRA também compõe minhas habilidades.
 
-Sou fluente em português e também estou estudando o idioma inglês todos os dias. Eu posso ler em nível avançado, escrever e ouvir em nível médio e estou estudando todos os dias para melhorar minha conversação, porque eu quero tornar-me fluente em inglês. Eu quero viajar ao redor do mundo e trabalhar para projetos internacionais, assim como conhecer novas pessoas, novas culturas e novos costumes.
+Dentre minhas principais contribuições destaco uma solução a partir da integração entre loja online e física diminuindo em 90% possibilidade de venda dupla e gerando informação em tempo real sobre vendas de mais de 40 mil produtos e desenvolvimento de uma solução também através de integração que foi capaz de captar imagens em tempo real geradas em câmeras IP para envio aos órgãos federais de inspeção veicular.
